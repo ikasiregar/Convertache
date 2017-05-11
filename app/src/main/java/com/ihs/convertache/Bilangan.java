@@ -26,7 +26,7 @@ public class Bilangan extends AppCompatActivity implements View.OnClickListener 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_suhu);
+        setContentView(R.layout.activity_bilangan);
 
         input = (EditText) findViewById(R.id.edInput);
         hitung = (Button) findViewById(R.id.btnCount);
