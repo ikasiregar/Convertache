@@ -36,6 +36,7 @@ public class Adapter extends ArrayAdapter<String>{
         ImageView imageView = (ImageView)rowView.findViewById(R.id.gambar);
         TextView tvNama = (TextView)rowView.findViewById(R.id.jenis);
 
+        tvNama.setText(itemJenis[position]);
         imageView.setImageResource(itemImage[position]);
 
         return rowView;
