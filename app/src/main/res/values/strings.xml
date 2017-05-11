@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Convertache</string>
+
+    <string-array name="suhu">
+        <item>Celcius -> Reamur</item>
+        <item>Celcius -> Fahrenhait</item>
+        <item>Celcius -> Kelvin</item>
+        <item>Reamur -> Celcius</item>
+        <item>Reamur -> Fahrenhait</item>
+        <item>Reamur -> Kelvin</item>
+        <item>Fahrenhait -> Celcius</item>
+        <item>Fahrenhait -> Reamur</item>
+        <item>Fahrenhait -> Kelvin</item>
+        <item>Kelvin -> Celcius</item>
+        <item>Kelvin -> Reamur</item>
+        <item>Kelvin -> Fahrenhait</item>
+    </string-array>
+
+    <string-array name="bilangan">
+        <item>Biner -> Desimal</item>
+        <item>Biner -> Octal</item>
+        <item>Biner -> Hexadesimal</item>
+        <item>Octal -> Biner</item>
+        <item>Octal -> Desimal</item>
+        <item>Octal -> Hexadesimal</item>
+        <item>Desimal -> Biner</item>
+        <item>Desimal -> Octal</item>
+        <item>Desimal -> Hexadesimal</item>
+        <item>Hexadesimal -> Biner</item>
+        <item>Hexadesimal -> Desimal</item>
+        <item>Hexadesimal -> Octal</item>
+    </string-array>
+</resources>
