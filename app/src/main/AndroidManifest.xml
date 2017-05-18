@@ -20,6 +20,8 @@
         <activity android:name=".Dashboard"/>
         <activity android:name=".Suhu"/>
         <activity android:name=".Bilangan"/>
+        <activity android:name=".Massa"/>
+        <activity android:name=".Waktu"/>
 
     </application>
 

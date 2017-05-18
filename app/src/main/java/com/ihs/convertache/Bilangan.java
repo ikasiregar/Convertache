@@ -27,6 +27,7 @@ public class Bilangan extends AppCompatActivity implements View.OnClickListener 
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bilangan);
+        getSupportActionBar().setTitle("Konversi Bilangan");
 
         input = (EditText) findViewById(R.id.edInput);
         hitung = (Button) findViewById(R.id.btnCount);
@@ -54,6 +55,7 @@ public class Bilangan extends AppCompatActivity implements View.OnClickListener 
                     int posisi = spin.getSelectedItemPosition();
                     switch (posisi) {
                         case 0:
+
                             p = Integer.parseInt(input.getText().toString(), 2);
                             result = String.format("%d", p);
                             break;
@@ -99,7 +101,7 @@ public class Bilangan extends AppCompatActivity implements View.OnClickListener 
                             break;
                         case 11:
                             p = Integer.parseInt(input.getText().toString(), 16);
-                            result = Integer.toOctalString(p);
+                           result = Integer.toOctalString(p);
                             break;
                     }
                     hasil.setText("" + result);

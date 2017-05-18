@@ -53,6 +53,12 @@ public class Dashboard extends AppCompatActivity implements AdapterView.OnItemCl
         }else if(select == "Bilangan"){
             Intent intent = new Intent(this, Bilangan.class);
             startActivity(intent);
+        }else if(select == "Waktu"){
+        Intent intent = new Intent(this, Waktu.class);
+        startActivity(intent);
+     }else if(select == "Massa"){
+        Intent intent = new Intent(this, Massa.class);
+        startActivity(intent);
         }
 //        Toast.makeText(getApplicationContext(), select,
 //                Toast.LENGTH_SHORT).show();

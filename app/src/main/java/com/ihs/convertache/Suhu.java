@@ -27,6 +27,8 @@ public class Suhu extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_suhu);
 
+        getSupportActionBar().setTitle("Konversi Suhu");
+
         input = (EditText) findViewById(R.id.edInput);
         hitung = (Button) findViewById(R.id.btnCount);
         clear= (Button) findViewById(R.id.btnClear);
