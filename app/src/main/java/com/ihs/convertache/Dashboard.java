@@ -24,7 +24,7 @@ public class Dashboard extends AppCompatActivity implements AdapterView.OnItemCl
     };
 
     Integer[] itemImage={
-            R.mipmap.temp,
+            R.mipmap.temperature,
             R.mipmap.bilangann,
             R.mipmap.hari,
             R.mipmap.masssa,
