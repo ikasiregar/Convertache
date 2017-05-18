@@ -19,14 +19,16 @@ public class Dashboard extends AppCompatActivity implements AdapterView.OnItemCl
             "Suhu",
             "Bilangan",
             "Waktu",
-            "Massa"
+            "Massa",
+            "Mata Uang"
     };
 
     Integer[] itemImage={
-            R.drawable.temp,
-            R.drawable.bil,
-            R.drawable.time,
-            R.drawable.mass
+            R.mipmap.temp,
+            R.mipmap.bilangann,
+            R.mipmap.hari,
+            R.mipmap.masssa,
+            R.mipmap.uang
     };
 
     @Override
@@ -59,6 +61,9 @@ public class Dashboard extends AppCompatActivity implements AdapterView.OnItemCl
      }else if(select == "Massa"){
         Intent intent = new Intent(this, Massa.class);
         startActivity(intent);
+        }else if(select == "Mata Uang"){
+            Intent intent = new Intent(this, Uang.class);
+            startActivity(intent);
         }
 //        Toast.makeText(getApplicationContext(), select,
 //                Toast.LENGTH_SHORT).show();

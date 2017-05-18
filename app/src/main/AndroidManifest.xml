@@ -16,13 +16,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".Dashboard"/>
-        <activity android:name=".Suhu"/>
-        <activity android:name=".Bilangan"/>
-        <activity android:name=".Massa"/>
-        <activity android:name=".Waktu"/>
-
+        <activity android:name=".Dashboard" />
+        <activity android:name=".Suhu" />
+        <activity android:name=".Bilangan" />
+        <activity android:name=".Massa" />
+        <activity android:name=".Waktu" />
+        <activity android:name=".Uang"></activity>
     </application>
 
 </manifest>
