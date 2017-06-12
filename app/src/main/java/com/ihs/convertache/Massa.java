@@ -44,53 +44,30 @@ public class Massa extends AppCompatActivity implements View.OnClickListener{
                 int posisi = spin.getSelectedItemPosition();
                 switch (posisi) {
                     case 0:
-                        p = 1000 * h;
+                        p = 100 * h;
                         result = String.format("%d", p);
                         break;
                     case 1:
-                        p = 1440 * h;
+                        p = 100000 * h;
                         result = String.format("%d", p);
                         break;
                     case 2:
-                        p = 86400 * h;
+                        p = 1000 * h;
                         result = String.format("%d", p);
                         break;
                     case 3:
-                        p = 24 * h / 100;
+                        p = 10 * h / 100;
                         result = String.format("%d", p);
                         break;
                     case 4:
-                        p = 60 * h;
+                        p = 100 * h;
                         result = String.format("%d", p);
                         break;
                     case 5:
-                        p = 3600 * h;
+                        p = 10 * h /100;
                         result = String.format("%d", p);
                         break;
-                    case 6:
-                        p = 1440 * h / 10000;
-                        result = String.format("%d", p);
-                        break;
-                    case 7:
-                        p = 60 * h / 100;
-                        result = String.format("%d", p);
-                        break;
-                    case 8:
-                        p = 60 * h;
-                        result = String.format("%d", p);
-                        break;
-                    case 9:
-                        p = 86400 * h/100000;
-                        result = String.format("%d", p);
-                        break;
-                    case 10:
-                        p = 3600 * h/100000;
-                        result = String.format("%d", p);
-                        break;
-                    case 11:
-                        p = 60 * h/100;
-                        result = String.format("%d", p);
-                        break;
+
 
 
                 }hasil.setText("" + result);

@@ -29,6 +29,7 @@
         <item>Hexadesimal -> Desimal</item>
         <item>Hexadesimal -> Octal</item>
     </string-array>
+
     <string-array name="waktu">
         <item>Day -> Hour</item>
         <item>Day -> Minute</item>
@@ -45,17 +46,25 @@
 
     </string-array>
     <string-array name="massa">
+        <item>Kwintal -> Kilogram</item>
+        <item>Kwintal -> Gram</item>
         <item>Kilogram -> Gram</item>
-        <item>Day -> Minute</item>
-        <item>Day -> Second</item>
-        <item>Hour -> Day</item>
-        <item>Hour -> Minute</item>
-        <item>Hour -> Second</item>
-        <item>Minute -> Day</item>
-        <item>Minute -> Hour</item>
-        <item>Minute -> Second</item>
-        <item>Second -> Day</item>
-        <item>Second -> Hour</item>
-        <item>Second -> Minute</item>
+        <item>Kilogram -> Ons</item>
+        <item>Ons -> Gram</item>
+        <item>Ons -> Kilogram</item>
+
+    </string-array>
+    <string-array name="uang">
+        <item>USD -> Rupiah Indonesia (IDR)</item>
+        <item>USD -> Yen Jepang (JPY)</item>
+        <item>USD -> Euro (EUR)</item>
+        <item>USD -> Pund Inggris (GBP)</item>
+        <item>USD -> Dollar Australia (AUD)</item>
+        <item>USD -> Franc Swiss (CHF)</item>
+        <item>USD -> Dollar Kanada (CAD)</item>
+        <item>USD -> Bitcoin (BTC)</item>
+        <item>USD -> Ringgit Malaysia (MYR)</item>
+        <item>USD -> Baht Thailand (THB)</item>
+
     </string-array>
 </resources>
