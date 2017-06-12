@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ce0293ab787890a151db33f426c36838840c3dca\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\af3b56aedf11968431cc17fce2b4fddd05b6dee5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\31fa59515e9c6621807c37af291406b4d0034aea\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\5132b9bd21ebc47cf182e101fcaadb7d103d17e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\e0b2355c59310c8939732418964733103c216206\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\142e9beed630982358ecfa7f05dcb9f05e85168c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\f6851b7b51b775491ab23bce0035d398747984ba\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\75ed99c9f19cb163ee25c612d128bf2b5fee8bca\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ac486a26913880c33b73eb31684ce4716f2431b9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anggun Prasanti\.android\build-cache\1324866271e034a77e7619cff1fba24ade1396f3\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ihs.convertache.MainActivity
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.ihs.convertache.Dashboard
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:19:19-44
+activity#com.ihs.convertache.Suhu
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:20:9-42
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:20:19-39
+activity#com.ihs.convertache.Bilangan
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:21:9-46
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:21:19-43
+activity#com.ihs.convertache.Massa
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:22:19-40
+activity#com.ihs.convertache.Waktu
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:23:9-43
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:23:19-40
+activity#com.ihs.convertache.Uang
+ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml:24:19-39
+uses-sdk
+INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ce0293ab787890a151db33f426c36838840c3dca\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\af3b56aedf11968431cc17fce2b4fddd05b6dee5\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\31fa59515e9c6621807c37af291406b4d0034aea\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\5132b9bd21ebc47cf182e101fcaadb7d103d17e3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\e0b2355c59310c8939732418964733103c216206\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\142e9beed630982358ecfa7f05dcb9f05e85168c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\f6851b7b51b775491ab23bce0035d398747984ba\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\75ed99c9f19cb163ee25c612d128bf2b5fee8bca\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ac486a26913880c33b73eb31684ce4716f2431b9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Anggun Prasanti\.android\build-cache\1324866271e034a77e7619cff1fba24ade1396f3\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ce0293ab787890a151db33f426c36838840c3dca\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+		INJECTED from E:\PAM\ConvertacheApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ce0293ab787890a151db33f426c36838840c3dca\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\af3b56aedf11968431cc17fce2b4fddd05b6dee5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\31fa59515e9c6621807c37af291406b4d0034aea\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\5132b9bd21ebc47cf182e101fcaadb7d103d17e3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\e0b2355c59310c8939732418964733103c216206\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\142e9beed630982358ecfa7f05dcb9f05e85168c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\f6851b7b51b775491ab23bce0035d398747984ba\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\75ed99c9f19cb163ee25c612d128bf2b5fee8bca\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ac486a26913880c33b73eb31684ce4716f2431b9\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ce0293ab787890a151db33f426c36838840c3dca\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Anggun Prasanti\.android\build-cache\ce0293ab787890a151db33f426c36838840c3dca\output\AndroidManifest.xml:26:9-47

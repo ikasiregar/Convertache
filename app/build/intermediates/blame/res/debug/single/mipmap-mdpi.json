@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\temperature.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\temperature.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bilangan.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\bilangan.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\bilangann.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\bilangann.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\uang.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\uang.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\hari.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\hari.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\angka.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\angka.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\suhu.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\suhu.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\masssa.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\masssa.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\waktu.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\waktu.png"
+    },
+    {
+        "merged": "E:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "E:\\PAM\\ConvertacheApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]

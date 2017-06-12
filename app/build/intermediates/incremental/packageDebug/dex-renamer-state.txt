@@ -1,0 +1,7 @@
+#Tue Jun 13 06:20:57 ICT 2017
+base.0=E\:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c514b8bff6782b171754b6f154e884db4e247625
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3de9e7309d466dbf22e1e7961815f0f8bcd50719\\classes.dex
+base.1=E\:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3de9e7309d466dbf22e1e7961815f0f8bcd50719
+file.0=E\:\\PAM\\ConvertacheApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c514b8bff6782b171754b6f154e884db4e247625\\classes.dex
